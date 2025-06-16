@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import numpy as np
 import matplotlib.pyplot as plt
-from lzhpy.func import *
+from func import *
 from H4band import *
 from scipy.interpolate import LinearNDInterpolator
 I = np.newaxis
