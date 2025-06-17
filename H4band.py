@@ -1,5 +1,5 @@
 import numpy as np
-from lzhpy.func import *
+from func import *
 
 Nb = 4
 n0 = [0.41805728, 0.33223161, 0.41805728, 0.33223161]  # density(Htb)
